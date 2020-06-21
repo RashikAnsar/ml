@@ -1,6 +1,7 @@
 # ML
 
-## Resources 
+## Resources
+
 - [Elements of AI](https://www.elementsofai.com/)
 - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
 - [Bloomberg Foundations of ML](https://bloomberg.github.io/foml)
@@ -10,9 +11,11 @@
 - [Teachable ML](https://teachablemachine.withgoogle.com/)
 - [ML Playground](https://ml-playground.com/)
 - [Tensorflow playground](https://playground.tensorflow.org/)
-- [ML cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) 
+- [ML cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
+- [Chris Albon](https://chrisalbon.com/)
 
 ## Data Sources
+
 - [Kaggle](https://www.kaggle.com/)
 - [UCI archive](http://archive.ics.uci.edu/ml/index.php)
 - [AWS opendata registry](https://registry.opendata.aws/)
@@ -21,3 +24,14 @@
 - [Google cloud public dataset](https://cloud.google.com/public-datasets)
 - [Google dataset search](https://datasetsearch.research.google.com/)
 - [US government data](https://www.data.gov/)
+
+## Tools
+
+- [Desmos Graphing Calculator](https://www.desmos.com/calculator)
+- [Matrix Multiplication](http://matrixmultiplication.xyz/)
+
+## Explainers
+
+- [ELI5](https://eli5.readthedocs.io/en/latest/)
+- [What If](https://pair-code.github.io/what-if-tool/)
+- [Shap](https://shap.readthedocs.io/en/latest/)
